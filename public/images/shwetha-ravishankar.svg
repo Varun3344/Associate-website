@@ -1,0 +1,12 @@
+<svg width="640" height="880" viewBox="0 0 640 880" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="880" fill="#f6f4ef"/>
+  <circle cx="320" cy="210" r="120" fill="#f2d5c4"/>
+  <path d="M160 460c8-108 72-190 160-190s152 82 160 190" fill="#111827"/>
+  <path d="M180 420h280v320H180z" fill="#0e1a2c" rx="40"/>
+  <path d="M200 440h240v280H200z" fill="#1a2538"/>
+  <path d="M230 480h180l40 200H190z" fill="#111827"/>
+  <path d="M320 400l80 160H240z" fill="#fdfdfd"/>
+  <rect x="302" y="360" width="36" height="120" rx="18" fill="#fff"/>
+  <rect x="120" y="640" width="400" height="200" fill="#ffffff" opacity="0.25"/>
+  <text x="50%" y="780" text-anchor="middle" font-size="56" font-family="'Georgia', serif" fill="#122038">Shwetha Ravishankar</text>
+</svg>
